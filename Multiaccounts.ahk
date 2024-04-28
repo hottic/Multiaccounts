@@ -1,5 +1,4 @@
 ﻿#NoEnv  ; Recommended for performance and compatibility with future AutoHotkey releases.
-;Menu, Tray, Icon, imageres.dll, 12
 
 ; ПОСТОЯННЫЕ 
 DELAY_BETWEEN_PI := 1000 ; задержка между запросом /pi игроков в тг
